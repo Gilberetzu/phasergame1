@@ -7,6 +7,7 @@ function preload()
 function create()
 {
 	game.add.sprite(0,0,'cosa');
+	game.add.text(0,0,luis);
 }
 function update()
 {
